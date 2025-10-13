@@ -148,6 +148,11 @@ lightbox.addEventListener('click', (e) => {
 ```
 # OUTPUT:
 ![alt text](<Screenshot 2025-10-06 194739.png>)
+![alt text](<Screenshot 2025-10-13 184140.png>)
+![alt text](<Screenshot 2025-10-13 184236.png>)
+![alt text](<Screenshot 2025-10-13 184349.png>)
+![alt text](<Screenshot 2025-10-13 184411.png>)
+![alt text](<Screenshot 2025-10-13 184434.png>)
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
